@@ -11,7 +11,8 @@
                 "dbaeumer.vscode-eslint",
                 "VisualStudioExptTeam.vscodeintellicode",
                 "DavidAnson.vscode-markdownlint",
-                "AmazonWebServices.amazon-q-vscode"
+                "AmazonWebServices.amazon-q-vscode",
+                "ms-azuretools.vscode-containers"
             ]
         }
     }
