@@ -40,6 +40,12 @@ gcloud auth login
 gcloud auth application-default login
 ```
 
+Set the project ID.
+
+```bash
+gcloud config set project $PROJECT_ID
+```
+
 Setup environment variables.
 
 ```bash
