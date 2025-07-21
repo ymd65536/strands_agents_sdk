@@ -12,7 +12,8 @@
                 "VisualStudioExptTeam.vscodeintellicode",
                 "DavidAnson.vscode-markdownlint",
                 "AmazonWebServices.amazon-q-vscode",
-                "ms-azuretools.vscode-containers"
+                "ms-azuretools.vscode-containers",
+                "ms-python.python"
             ]
         }
     }
