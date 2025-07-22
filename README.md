@@ -69,4 +69,5 @@ echo "GOOGLE_CLOUD_PROJECT=$GOOGLE_CLOUD_PROJECT" >> ./multi_tool_agent/.env
 
 ## reference
 
-[strands-agents/tools](https://github.com/strands-agents/tools)
+- [strands-agents/tools](https://github.com/strands-agents/tools)
+- [Welcome - Strands Agents](https://strandsagents.com/latest/documentation/docs/)
