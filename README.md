@@ -53,6 +53,12 @@ export GOOGLE_CLOUD_PROJECT=`gcloud config list --format 'value(core.project)'`
 export GOOGLE_CLOUD_LOCATION=us-central1
 ```
 
+```bash
+pip install --user --break-system-package google-adk
+```
+
+## option
+
 Setup `.env` file.
 
 ```bash
