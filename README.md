@@ -66,3 +66,7 @@ echo "GOOGLE_GENAI_USE_VERTEXAI=TRUE" > ./multi_tool_agent/.env
 echo "GOOGLE_CLOUD_LOCATION=us-central1" >> ./multi_tool_agent/.env
 echo "GOOGLE_CLOUD_PROJECT=$GOOGLE_CLOUD_PROJECT" >> ./multi_tool_agent/.env
 ```
+
+## reference
+
+[strands-agents/tools](https://github.com/strands-agents/tools)
